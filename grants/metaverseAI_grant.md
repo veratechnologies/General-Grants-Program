@@ -16,9 +16,19 @@ If this application in response to an RFP then please indicate this on the first
 
 ### Project Details
 
-We expect the teams to already have a solid idea about the project's expected final state.
+We are building an interchain-NFT wallet for Polkadot, Kusama, Substrate and Web 3. This involves four parts:
+1. Browser extension wallet contains NFT demenstration module and multi-chain NFT manage module
+2. NFT-DID-Avatar parachain
 
-Therefore, we ask the teams to submit (where relevant):
+
+
+# Integration with Polkadot/Substrate
+*In DiD:  Substrate will be the framework for DiD.  Polyverse AI uses Sidetree Layer-2 DID (https://didproject.azurewebsites.net/docs/ion-sidetree.html) protocol for decentralized identity on top of the polkadot network with privacy-preserving functionalities.
+
+* In Metaverse games:  we imaginie a future where game asset data is stored on Polkadot chain, a future where in-game items to be purchased in DOT,KSM in addition to ETH.
+Virtual gaming assets can appear in Polkadot wallet and multiple blockchain games because the players have true ownership.
+
+
 
 * Mockups/designs of any UI components
 * API specifications of the core functionality
@@ -28,18 +38,25 @@ Therefore, we ask the teams to submit (where relevant):
 
 ### Ecosystem Fit
 
-Are there any other projects similar to yours? If so, how is your project different?
+We're one of the first projects to combine metaverse, VR gaming with blockchain technologies. 
 
 ## Team :busts_in_silhouette:
 
 ### Team members
 
-* Name of team leader
-* Names of team members 
+
+* Henry Yan: Product manager at Facebook VR/AR, Product Manager@ LinkedIn in privacy. Investor@Baidu Ventures focused on AI & Blockchain.  
+* David Chi: Blockchain @ Berkeley key member. Master@Columbia University.  AI & Autonomous driving@Momenta. Worked at Hub (decentralized reputation protocol for Web3.0)
+* Treasor Lou: Developer & Product Manager@ BitXHub Interblockchain Protocol. Software Engineering@ZheJiang University. President@ Blockchain Association of ZheJiang University.
+* Cathy Lee: ex-IDG Capital. worked on investment for crypto and traditional industry
+* Zhuoming Li:  Staff Engineering Manager @Facebook, ex-Google, 
+* Eric Ni: Founder of Virtual Human technology, Seasoned VR developer at NetEase, 51VR(Largest in Asia). Developed multiple successful VR games
+
+
 
 ### Team Website 
 
-* https://<your_domain>
+* https://MetaverseAI.org
 
 ### Legal Structure
 
